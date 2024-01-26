@@ -1,0 +1,1 @@
+It s a React-based web application that allows users to dynamically add and display fields based on their selected options. It utilizes ReactJS for the frontend and Redux for state management. The application is designed to provide a flexible and intuitive way of collecting information by allowing users to define their own input fields with validations.
